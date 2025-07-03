@@ -1,25 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mohammed Faizan</h1>
+<h1 align="center">Hi 👋, I'm #Mohammed Faizan</h1>
 <h3 align="center">AI Scientist / Tech Entrepreneur</h3>
 
-- 🔭 I’m currently working on **AI model**
+### 👋 Hi, I’m Mohammed Faizan
 
-- 🌱 I’m currently learning **Deep learning frameworks like TensorFlow & PyTorch, and tools like Docker, Kubernetes, and MLOps best practices.**
+- 🔭 Currently building: **AI models** for real-world applications  
+- 🌱 Learning: **TensorFlow, PyTorch, Docker, and MLOps tools**  
+- 👯 Open to collaborate on: **Generative AI & open-source ML projects**  
+- 🤝 Seeking help with: **Production-grade ML deployment workflows**  
+- 💬 Ask me about: **Machine learning, AI model development, Python**  
+- 📫 Reach me at: **m.faizan@metispvt.com**  
+- 📂 Explore my work & writing: [Linktree](https://linktr.ee/muhammad.faizan1221)  
+- 📄 View my journey: [LinkedIn](https://linkedin.com/in/mohammad‑faizan‑a09631252)  
+- ⚡ Fun fact: *I can train a basic image-classification model in under an hour!*
 
-- 👯 I’m looking to collaborate on [Open‑Source Generative AI Projects](ideally involving Python, Golang, and machine learning pipelines)
-
-- 🤝 I’m looking for help with [Production‑grade ML Deployment](fine-tuning Docker, Kubernetes, or cloud (AWS/GCP) workflows for model ops.)
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/muhammad.faizan1221](https://linktr.ee/muhammad.faizan1221)
-
-- 📝 I regularly write articles on [https://linktr.ee/muhammad.faizan1221](https://linktr.ee/muhammad.faizan1221)
-
-- 💬 Ask me about **Machine learning, AI model development, Python and computer science fundamentals from my Szabist University journey.**
-
-- 📫 How to reach me **m.faizan@metispvt.com**
-
-- 📄 Know about my experiences [linkedin.com/in/mohammad‑faizan‑a09631252](linkedin.com/in/mohammad‑faizan‑a09631252)
-
-- ⚡ Fun fact **I can train a basic image-classification model in under an hour**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
